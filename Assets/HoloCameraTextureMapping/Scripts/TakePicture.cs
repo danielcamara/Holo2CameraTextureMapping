@@ -70,7 +70,7 @@ public class TakePicture : Singleton<TakePicture>
 
 #region debug
     public Texture2D[] SampleTexture;
-    #endregion
+#endregion
 
     void Start()
     {
